@@ -1,3 +1,3 @@
-TaskMaster
+<b> TaskMaster </b>
 
 TaskMaster is a sleek and user-friendly todo app designed to help you organize your tasks efficiently. With TaskMaster, you can create, manage, and prioritize your tasks effortlessly. The intuitive interface allows you to quickly add new tasks, set due dates, and categorize them with customizable tags. TaskMaster also offers flexible sorting and filtering options, making it easy to focus on what's important. Never miss a deadline again with TaskMaster's reminders and notifications feature. Whether you're managing personal projects or professional assignments, TaskMaster is your ultimate productivity companion. Download TaskMaster now and take control of your tasks with ease!
